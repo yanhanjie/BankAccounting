@@ -1,0 +1,75 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\bin\Debug\ccslabsLogIn.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.frmMain.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ccslabsLogIn\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe.config
+G:\asa\assignment2\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe.config
+G:\asa\assignment2\C#\ccslabsLogIn\bin\Debug\Application.mdf
+G:\asa\assignment2\C#\ccslabsLogIn\bin\Debug\Application_log.ldf
+G:\asa\assignment2\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe
+G:\asa\assignment2\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.pdb
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csprojResolveAssemblyReference.cache
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.frmMain.resources
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmLogin.resources
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmRegister.resources
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Properties.Resources.resources
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csproj.GenerateResource.Cache
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.exe
+G:\asa\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.pdb
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe.config
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.exe
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.pdb
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\bin\Debug\Application.mdf
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\bin\Debug\Application_log.ldf
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.pdb
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.frmMain.resources
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmLogin.resources
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmRegister.resources
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Properties.Resources.resources
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csproj.GenerateResource.Cache
+I:\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe.config
+I:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.exe
+I:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.pdb
+I:\C#\ccslabsLogIn\bin\Debug\Application.mdf
+I:\C#\ccslabsLogIn\bin\Debug\Application_log.ldf
+I:\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe
+I:\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.pdb
+I:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.frmMain.resources
+I:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmLogin.resources
+I:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmRegister.resources
+I:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Properties.Resources.resources
+I:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csproj.GenerateResource.Cache
+G:\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe.config
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.exe
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.pdb
+G:\C#\ccslabsLogIn\bin\Debug\Application.mdf
+G:\C#\ccslabsLogIn\bin\Debug\Application_log.ldf
+G:\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe
+G:\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.pdb
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csprojResolveAssemblyReference.cache
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.frmMain.resources
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmLogin.resources
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmRegister.resources
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Properties.Resources.resources
+G:\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csproj.GenerateResource.Cache
+C:\Users\YAM HON GIT\Documents\assignment2\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Form2.resources
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe.config
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\bin\Debug\Application.mdf
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\bin\Debug\Application_log.ldf
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.pdb
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.frmMain.resources
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Form2.resources
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmLogin.resources
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.forms.frmRegister.resources
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.Properties.Resources.resources
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.csproj.GenerateResource.Cache
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.exe
+C:\Users\YAM HON GIT\Desktop\PlayBack\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.pdb
+C:\Users\YAM HON GIT\Desktop\新建文件夹\C#\ccslabsLogIn\bin\Debug\ccslabsLogIn.exe.config
+C:\Users\YAM HON GIT\Desktop\新建文件夹\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.exe
+C:\Users\YAM HON GIT\Desktop\新建文件夹\C#\ccslabsLogIn\obj\x86\Debug\ccslabsLogIn.pdb

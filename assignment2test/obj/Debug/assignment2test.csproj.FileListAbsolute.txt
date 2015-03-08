@@ -1,0 +1,9 @@
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\obj\Debug\assignment2test.csprojResolveAssemblyReference.cache
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\bin\Debug\Application.mdf
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\bin\Debug\Application_log.ldf
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\bin\Debug\assignment2test.dll
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\bin\Debug\assignment2test.pdb
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\bin\Debug\ccslabsLogIn.exe
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\bin\Debug\ccslabsLogIn.pdb
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\obj\Debug\assignment2test.dll
+C:\Users\YAM HON GIT\Documents\assignment2\C#\assignment2test\obj\Debug\assignment2test.pdb
